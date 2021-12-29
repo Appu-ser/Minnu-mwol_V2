@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*❤️Minnu-mwol ELLAM SETTAYI😇*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*❤️Minnu-mwol ELLAM SETTAYI😇*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*❤️Minnu-mwol ELLAM SETTAYI😇*', MessageType.text);
                 }
             }
         }
@@ -391,8 +391,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~❤️MAALUTTY💙~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥺 errors\njoin with \n https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~❤️Minnu-mwol_v2💙~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```no errors Enjoy Minnu``` ' 
                                     , MessageType.text);
                             }
                         }
