@@ -5,7 +5,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/N6b6cv3/Maalutty.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Minnu-mwol_v2" src="https://img.shields.io/badge/Minnu-mwol_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Minnu-mwol_V2" src="https://img.shields.io/badge/Minnu-mwol_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Appu-ser"><img title="Author" src="https://img.shields.io/badge/Author-Appuser?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/Appu-ser">Appu-ser</a> to make it
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Appu-ser/Minnu-mwol_v2&title=Minnu-mwol_v2%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Appu-ser/Minnu-mwol_V2&title=Minnu-mwol_V2%20Views)
 
 
 ## Setup
@@ -30,15 +30,15 @@ Project created by <a href="https://github.com/Appu-ser">Appu-ser</a> to make it
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Appu-ser/Minnu-mwol_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Appu-ser/Minnu-mwol_V2) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Appu-ser/Minnu-mwol_v2
-$ cd Minnu-mwol_v2
+$ git clone https://github.com/Appu-ser/Minnu-mwol_V2
+$ cd Minnu-mwol_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node maalutty.js
@@ -46,8 +46,8 @@ $ node maalutty.js
       
 ```js
 SETUP
-$ git clone https://github.com/Appu-ser/Minnu-mwol_v2
-$ cd Minnu-mwol_v2
+$ git clone https://github.com/Appu-ser/Minnu-mwol_V2
+$ cd Minnu-mwol_V2
 $ npm i
 $ node maalutty.js
 ```
@@ -55,15 +55,15 @@ $ node maalutty.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Appu-ser/Minnu-mwol_v2">
+  <a href="httsp://github.com/Appu-ser/Minnu-mwol_V2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Appu-ser/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Appu-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appu-ser/Minnu-mwol_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Appu-ser/Minnu-mwol_v2?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/Appu-ser/Minnu-mwol_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Appu-ser/Minnu-mwol_v2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/Appu-ser/Minnu-mwol_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Appu-ser/Minnu-mwol_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/Appu-ser/Minnu-mwol_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Appu-ser/Minnu-mwol_V2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
