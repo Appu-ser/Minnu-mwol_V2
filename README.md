@@ -81,11 +81,12 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developer
+
   <div align="center">
     
 ![Appu-ser](https://github.com/Appu-ser.png?size=100)
 
- [Appu-ser](https://github.com/Appu-ser)
+[Appu-ser](https://github.com/Appu-ser)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
