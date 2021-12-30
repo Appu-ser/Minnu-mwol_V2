@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/Appu-ser">Appu-ser</a> to make it
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Pranavk6/Minnu-Mwol-QR?v=1)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Appu-ser/Minnu-mwol_V2) 
